@@ -15,7 +15,7 @@ Otherwise, I put code in some other file like `package_name/core.py`, and then i
 After `pip install cookiecutter`, run:
 
 ```bash
-cookiecutter gh:seanbreckenridge/cookiecutter-template
+cookiecutter gh:purarue/cookiecutter-template
 cd ./package_name
 pip install '.[testing]'
 python3 -m pytest
