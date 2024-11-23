@@ -4,7 +4,7 @@
 
 ## Installation
 
-Requires `python3.8+`
+Requires `python3.9+`
 
 To install with pip, run:
 
