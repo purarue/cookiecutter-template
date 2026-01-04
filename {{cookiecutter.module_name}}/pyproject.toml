@@ -17,7 +17,7 @@ classifiers = [
 ]
 dependencies = ["click>=8.1.7"]
 [[project.authors]]
-name = "{{ cookiecutter.full_name }}"
+name = "{{ cookiecutter.author_name }}"
 
 [build-system]
 requires = ["setuptools"]
